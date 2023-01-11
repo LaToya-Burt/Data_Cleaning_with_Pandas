@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Analytics - Data Cleaning with Pandas
 
 ## SETUP STEPS
@@ -11,3 +12,7 @@
 7. Starting from the top of the page, begin working through each of the user stories using the corresponding code block
 8. **Be sure to thoroughly test each code block before continuing to the next user story!**
 9. Include your completed `.ipynb` and cleaned `.csv` files within your repository for submission!
+=======
+# Data_Cleaning_with_Pandas
+git hub
+>>>>>>> cc715beefc074695387db82725a01bf5ec879414
